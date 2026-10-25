@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sarahanwar-1
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning at Alx
+- 🌱 I’m Web developer and mom of two
 - 📫 How to reach me sarahanwarismael@gmail.com
 
 <!---
